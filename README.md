@@ -1,0 +1,2 @@
+# digColl_hollandLiteraryLetters
+The Holland Collection consists of 89 letters written to Josiah Gilbert Holland (1819-1881) or his staff during his years as editor for Scribner's Monthly. The letters come from a wide range of 19th century figures, including Samuel Clemens, Emily Dickinson, Harriet Beecher Stowe, and Walt Whitman. Gift of Meriwether Lewis Holland in memory of Josiah Gilbert Holland (1900-1975). DOI: https://doi.org/10.25810/495g-9j18
